@@ -1,5 +1,6 @@
 # FundamentalsSoftUniProject
 Demo project
+Console.WriteLine(string.Join(" ", first));
+Console.WriteLine(string.Join(" ", second));
 
-Console.WriteLine(string.Join(" ", firstArray));
-Console.WriteLine(string.Join(" ", secondArray));
+Demo project
